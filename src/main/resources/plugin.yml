@@ -1,0 +1,13 @@
+name: RougeLikePlugin
+version: '${project.version}'
+main: io.github.v0ncent.rougelikeplugin.RougeLikePlugin
+api-version: 1.20
+prefix: RGP
+load: STARTUP
+authors: [ v0ncent ]
+description: A mix of custom commands and features for the polycules rougelike mc playthrough
+website: https://github.com/v0ncent
+
+commands:
+  getcoords:
+    description: Gets the coordinates of the specified player.
