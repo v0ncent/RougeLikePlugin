@@ -11,3 +11,4 @@ website: https://github.com/v0ncent
 commands:
   getcoords:
     description: Gets the coordinates of the specified player.
+    usage: /getcoords <username>
