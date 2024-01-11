@@ -12,3 +12,11 @@ commands:
   getcoords:
     description: Gets the coordinates of the specified player.
     usage: /getcoords <username>
+
+  getto:
+    description: Gives you directions to a specified player.
+    usage: /getto <username>
+
+  howfar:
+    description: Tells you how far a specified player is from you.
+    usage: /howfar <username>
